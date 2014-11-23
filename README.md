@@ -2,6 +2,7 @@ cluster-science2014
 ===================
 
 Clustering algorithm appeared on Science in 2014 is implemented in C++
+
 /************************************************************
 FileName: cluster_sci14.cpp
 Author: Yunfei WANG
@@ -11,6 +12,7 @@ Date: Nov.23,2014
 
 
 OPTIONS
+
     --input     Requests that all the samples are stored in the given file
                 in which each row is a sample.
     --clusters  Specify the number of clusters.
