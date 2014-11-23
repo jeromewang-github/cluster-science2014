@@ -3,11 +3,17 @@ cluster-science2014
 
 Clustering algorithm appeared on Science in 2014 is implemented in C++
 
+
 /************************************************************
+
 FileName: cluster_sci14.cpp
+
 Author: Yunfei WANG
+
 E-mail: wangyunfeiysm@163.com
+
 Date: Nov.23,2014
+
 ***********************************************************/
 
 
